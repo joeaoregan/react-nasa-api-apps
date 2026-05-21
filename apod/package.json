@@ -1,7 +1,7 @@
 {
   "name": "react-apod-api-app",
   "version": "0.1.0",
-  "homepage": "https://joeaoregan.github.io/react-apod-api-app",
+  "homepage": "https://joeaoregan.github.io/react-nasa-api-apps",
   "private": true,
   "main": "/src/index.js",
   "dependencies": {
