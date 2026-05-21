@@ -8,7 +8,7 @@
 
 # Screenshot
 
-| ![Nasa Photo Page](https://raw.githubusercontent.com/joeaoregan/react-apod-api-app/master/Screenshots/screenshot1.jpg "Nasa Photo of the Day 19/06/2025") |
+| ![Nasa Photo Page](Screenshots/screenshot1.jpg "Nasa Photo of the Day 19/06/2025") |
 |:--:| 
 | *Example Nasa - Astronomy Picture of the Day from 19/06/2025* |
 
