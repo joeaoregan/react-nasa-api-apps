@@ -42,6 +42,9 @@ npm start
 
 ## 2. APOD App — Vite
 
+
+![Picture of the day](apod-vite/Screenshots/260521.png)
+
 ```md
 apod-vite/
 ```

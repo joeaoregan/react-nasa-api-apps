@@ -40,7 +40,7 @@ function App() {
       }
     }
     fetchAPIData()
-  }, []) // empty dependency array to run only once on mount, add viarable to the array if you want to run it on updates
+  }, []) // empty dependency array to run only once on mount, add variable to the array if you want to run it on updates
 
   return (
     <>

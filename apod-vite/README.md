@@ -1,5 +1,7 @@
 # React + Vite NASA APOD API App
 
+![Picture of the day](Screenshots/260521.png)
+
 NASA APOD API (Astronomy Picture of the Day)
 
 * Vite build tool
